@@ -11,10 +11,6 @@
   🏆 <strong>Daniel Sigulem Award</strong> (Excellence in Medical Informatics) at the XXI Brazilian Congress of Health Informatics (CBIS 2026), for a comparative study of <strong>YOLOv11m and RT-DETR-L</strong> for breast mass detection in mammography. Selected for publication in the <em>Journal of Health Informatics</em>.
 </p>
 
-<p align="left">
-  🔬 Currently working on <strong>breast mass segmentation</strong> with <strong>MedSAM</strong>, in a detection → segmentation → classification pipeline (paper in preparation).
-</p>
-
 ---
 
 <p align="left">
