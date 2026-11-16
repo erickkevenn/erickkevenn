@@ -2,10 +2,17 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 
-  I'm a Computer Science student at the <strong>Federal University of Alagoas (UFAL)</strong>.  
-  I work as a <strong>Back-End Developer</strong> with focus on <strong>Java and Spring Boot</strong>.  
-  I am also interested in the <strong>Data Engineering field</strong>, developing projects with <strong>Python</strong> and <strong>PyTorch</strong> when related to data.  
+<p align="left">
+  I'm an <strong>AI Developer</strong> focused on <strong>Deep Learning and Computer Vision for medical imaging</strong>.
+  Computer Science student at the <strong>Federal University of Alagoas (UFAL)</strong>, graduating in 2027.
+</p>
+
+<p align="left">
+  🏆 <strong>Daniel Sigulem Award</strong> (Excellence in Medical Informatics) at the XXI Brazilian Congress of Health Informatics (CBIS 2026), for a comparative study of <strong>YOLOv11m and RT-DETR-L</strong> for breast mass detection in mammography. Selected for publication in the <em>Journal of Health Informatics</em>.
+</p>
+
+<p align="left">
+  🔬 Currently working on <strong>breast mass segmentation</strong> with <strong>MedSAM</strong>, in a detection → segmentation → classification pipeline (paper in preparation).
 </p>
 
 ---
@@ -13,12 +20,11 @@
 <p align="left">
   💼 Skills:
   <ul>
-    <li>Java (Spring Boot, Java EE)</li>
-    <li>SQL (MySQL, PostgreSQL)</li>
-    <li>Python for Data Engineering</li>
-    <li>PyTorch (Data-related projects)</li>
-    <li>Git & Docker</li>
-    <li>Object-Oriented Programming & Clean Code</li>
+    <li><strong>Deep Learning & Computer Vision:</strong> PyTorch, Ultralytics (YOLO), MedSAM / SAM, U-Net, nnU-Net, timm, OpenCV</li>
+    <li><strong>Data & AI:</strong> Python, NumPy, pandas, scikit-learn, embeddings, LLM integration</li>
+    <li><strong>Back-end:</strong> FastAPI, NestJS, Spring Boot, .NET, Kafka, REST APIs</li>
+    <li><strong>Front-end & Mobile:</strong> TypeScript, Next.js, Angular, Flutter</li>
+    <li><strong>Databases & DevOps:</strong> PostgreSQL, MySQL, Docker, Kubernetes, CI/CD, Git</li>
   </ul>
 </p>
 
