@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🏆 <strong>Daniel Sigulem Award</strong> (Excellence in Medical Informatics) at the XXI Brazilian Congress of Health Informatics (CBIS 2026), for a comparative study of <strong>YOLOv11m and RT-DETR-L</strong> for breast mass detection in mammography. Selected for publication in the <em>Journal of Health Informatics</em>.
+  🏆 <strong>Daniel Sigulem Award</strong> (Excellence in Medical Informatics) at the XXI Brazilian Congress of Health Informatics (CBIS 2026).
 </p>
 
 ---
@@ -16,11 +16,11 @@
 <p align="left">
   💼 Skills:
   <ul>
-    <li><strong>Deep Learning & Computer Vision:</strong> PyTorch, Ultralytics (YOLO), MedSAM / SAM, U-Net, nnU-Net, timm, OpenCV</li>
-    <li><strong>Data & AI:</strong> Python, NumPy, pandas, scikit-learn, embeddings, LLM integration</li>
-    <li><strong>Back-end:</strong> FastAPI, NestJS, Spring Boot, .NET, Kafka, REST APIs</li>
-    <li><strong>Front-end & Mobile:</strong> TypeScript, Next.js, Angular, Flutter</li>
-    <li><strong>Databases & DevOps:</strong> PostgreSQL, MySQL, Docker, Kubernetes, CI/CD, Git</li>
+    <li><strong>Deep Learning & Computer Vision:</strong> PyTorch, Ultralytics (YOLO), RT-DETR, OpenCV, object detection, image segmentation</li>
+    <li><strong>Data Science:</strong> Python, NumPy, pandas, scikit-learn</li>
+    <li><strong>Back-end:</strong> Java (Spring Boot), NestJS, REST APIs</li>
+    <li><strong>Front-end & Mobile:</strong> TypeScript, Next.js, Flutter</li>
+    <li><strong>Databases & Tools:</strong> PostgreSQL, MySQL, Docker, Git</li>
   </ul>
 </p>
 
